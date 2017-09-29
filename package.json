@@ -1,8 +1,8 @@
 {
   "name": "simplemodal",
-  "version": "1.0.0",
+  "version": "1.4.7",
   "description": "> **NOTICE**",
-  "main": "index.js",
+  "main": "./src/jquery.simplemodal.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
